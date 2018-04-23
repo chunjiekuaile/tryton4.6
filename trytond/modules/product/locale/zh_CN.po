@@ -1,0 +1,856 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:product.uom:"
+msgid ""
+"If the UOM is still not used, you can delete it otherwise you can deactivate"
+" it and create a new one."
+msgstr "如果计量单位仍不可用，你可以删除此计量单位使之无效，再创建一个新的单位。"
+
+
+msgctxt "error:product.uom:"
+msgid "Invalid Factor and Rate values in UOM \"%s\"."
+msgstr "计量单位中无效的因子值和无效的比率值。"
+
+msgctxt "error:product.uom:"
+msgid "Rate and factor can not be both equal to zero."
+msgstr "比率和因子值不能都等于0."
+
+msgctxt "error:product.uom:"
+msgid "You cannot change Rate, Factor or Category on a Unit of Measure."
+msgstr "计量单位中不能更改比率，因子和种类。"
+
+msgctxt "field:product.category,childs:"
+msgid "Children"
+msgstr "子类"
+
+msgctxt "field:product.category,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.category,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.category,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.category,name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.category,parent:"
+msgid "Parent"
+msgstr "父类"
+
+msgctxt "field:product.category,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.category,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.category,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:product.configuration,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.configuration,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.configuration,default_cost_price_method:"
+msgid "Default Cost Method"
+msgstr "默认成本计算方法"
+
+msgctxt "field:product.configuration,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.configuration,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.configuration,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.configuration,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:product.product,active:"
+msgid "Active"
+msgstr "已激活"
+
+msgctxt "field:product.product,categories:"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "field:product.product,code:"
+msgid "Code"
+msgstr "编码"
+
+msgctxt "field:product.product,consumable:"
+msgid "Consumable"
+msgstr "可消耗的"
+
+msgctxt "field:product.product,cost_price:"
+msgid "Cost Price"
+msgstr "成本价"
+
+msgctxt "field:product.product,cost_price_method:"
+msgid "Cost Method"
+msgstr "成本计算方法"
+
+msgctxt "field:product.product,cost_price_uom:"
+msgid "Cost Price"
+msgstr "成本价"
+
+msgctxt "field:product.product,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.product,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.product,default_uom:"
+msgid "Default UOM"
+msgstr "默认计量单位"
+
+msgctxt "field:product.product,default_uom_category:"
+msgid "Default UOM Category"
+msgstr "默认计量单位分类"
+
+msgctxt "field:product.product,description:"
+msgid "Description"
+msgstr "说明书"
+
+msgctxt "field:product.product,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.product,list_price:"
+msgid "List Price"
+msgstr "单价"
+
+msgctxt "field:product.product,list_price_uom:"
+msgid "List Price"
+msgstr "单价"
+
+msgctxt "field:product.product,name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.product,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.product,template:"
+msgid "Product Template"
+msgstr "产品模板"
+
+msgctxt "field:product.product,type:"
+msgid "Type"
+msgstr "类型"
+
+msgctxt "field:product.product,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.product,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:product.template,active:"
+msgid "Active"
+msgstr "已激活"
+
+msgctxt "field:product.template,categories:"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "field:product.template,consumable:"
+msgid "Consumable"
+msgstr "可消耗的"
+
+msgctxt "field:product.template,cost_price:"
+msgid "Cost Price"
+msgstr "成本价"
+
+msgctxt "field:product.template,cost_price_method:"
+msgid "Cost Method"
+msgstr "成本计算方法"
+
+msgctxt "field:product.template,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.template,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.template,default_uom:"
+msgid "Default UOM"
+msgstr "默认计量单位"
+
+msgctxt "field:product.template,default_uom_category:"
+msgid "Default UOM Category"
+msgstr "默认计量单位分类"
+
+msgctxt "field:product.template,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.template,list_price:"
+msgid "List Price"
+msgstr "单价"
+
+msgctxt "field:product.template,name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.template,products:"
+msgid "Variants"
+msgstr "变量"
+
+msgctxt "field:product.template,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.template,type:"
+msgid "Type"
+msgstr "类型"
+
+msgctxt "field:product.template,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.template,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:product.template-product.category,category:"
+msgid "Category"
+msgstr "分类"
+
+msgctxt "field:product.template-product.category,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.template-product.category,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.template-product.category,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.template-product.category,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.template-product.category,template:"
+msgid "Template"
+msgstr "模板"
+
+msgctxt "field:product.template-product.category,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.template-product.category,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:product.uom,active:"
+msgid "Active"
+msgstr "已激活"
+
+msgctxt "field:product.uom,category:"
+msgid "Category"
+msgstr "分类"
+
+msgctxt "field:product.uom,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.uom,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.uom,digits:"
+msgid "Display Digits"
+msgstr "显示数字"
+
+msgctxt "field:product.uom,factor:"
+msgid "Factor"
+msgstr "因子"
+
+msgctxt "field:product.uom,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.uom,name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.uom,rate:"
+msgid "Rate"
+msgstr "比率"
+
+msgctxt "field:product.uom,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.uom,rounding:"
+msgid "Rounding Precision"
+msgstr "舍入精度"
+
+msgctxt "field:product.uom,symbol:"
+msgid "Symbol"
+msgstr "标志"
+
+msgctxt "field:product.uom,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.uom,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:product.uom.category,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.uom.category,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.uom.category,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.uom.category,name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.uom.category,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.uom.category,uoms:"
+msgid "Unit of Measures"
+msgstr "计量单位"
+
+msgctxt "field:product.uom.category,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.uom.category,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "help:product.uom,factor:"
+msgid ""
+"The coefficient for the formula:\n"
+"coef (base unit) = 1 (this unit)"
+msgstr "公式的系数："
+"系数（基本单位)=1(单位）"
+
+msgctxt "help:product.uom,rate:"
+msgid ""
+"The coefficient for the formula:\n"
+"1 (base unit) = coef (this unit)"
+msgstr "公式的系数："
+"1（基本单位）=系数（单位）"
+
+msgctxt "model:ir.action,name:act_category_list"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "model:ir.action,name:act_category_tree"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "model:ir.action,name:act_product_configuration_form"
+msgid "Product Configuration"
+msgstr "产品配置"
+
+msgctxt "model:ir.action,name:act_product_form"
+msgid "Variants"
+msgstr "变量"
+
+msgctxt "model:ir.action,name:act_template_by_category"
+msgid "Product by Category"
+msgstr "产品分类"
+
+msgctxt "model:ir.action,name:act_template_form"
+msgid "Products"
+msgstr "产品"
+
+msgctxt "model:ir.action,name:act_uom_category_form"
+msgid "Categories of Unit of Measure"
+msgstr "计量单位的分类"
+
+msgctxt "model:ir.action,name:act_uom_form"
+msgid "Units of Measure"
+msgstr "计量单位"
+
+msgctxt "model:ir.ui.menu,name:menu_category_list"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "model:ir.ui.menu,name:menu_category_tree"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "model:ir.ui.menu,name:menu_configuration"
+msgid "Configuration"
+msgstr "配置"
+
+msgctxt "model:ir.ui.menu,name:menu_main_product"
+msgid "Product"
+msgstr "产品"
+
+msgctxt "model:ir.ui.menu,name:menu_product"
+msgid "Variants"
+msgstr "变量"
+
+msgctxt "model:ir.ui.menu,name:menu_product_configuration"
+msgid "Product Configuration"
+msgstr "产品配置"
+
+msgctxt "model:ir.ui.menu,name:menu_template"
+msgid "Products"
+msgstr "产品"
+
+msgctxt "model:ir.ui.menu,name:menu_uom_category_form"
+msgid "Categories"
+msgstr "分类"
+
+msgctxt "model:ir.ui.menu,name:menu_uom_form"
+msgid "Units of Measure"
+msgstr "计量单位"
+
+msgctxt "model:product.category,name:"
+msgid "Product Category"
+msgstr "产品分类"
+
+msgctxt "model:product.configuration,name:"
+msgid "Product Configuration"
+msgstr "产品配置"
+
+msgctxt "model:product.product,name:"
+msgid "Product Variant"
+msgstr "产品变量"
+
+msgctxt "model:product.template,name:"
+msgid "Product Template"
+msgstr "产品模板"
+
+msgctxt "model:product.template-product.category,name:"
+msgid "Template - Category"
+msgstr "模板分类"
+
+msgctxt "model:product.uom,name:"
+msgid "Unit of measure"
+msgstr "计量单位"
+
+msgctxt "model:product.uom,name:uom_are"
+msgid "Are"
+msgstr "公亩"
+
+msgctxt "model:product.uom,name:uom_carat"
+msgid "Carat"
+msgstr "克拉"
+
+msgctxt "model:product.uom,name:uom_centimeter"
+msgid "centimeter"
+msgstr "厘米"
+
+msgctxt "model:product.uom,name:uom_cubic_centimeter"
+msgid "Cubic centimeter"
+msgstr "立方厘米"
+
+msgctxt "model:product.uom,name:uom_cubic_foot"
+msgid "Cubic foot"
+msgstr "立方英尺"
+
+msgctxt "model:product.uom,name:uom_cubic_inch"
+msgid "Cubic inch"
+msgstr "立方英寸"
+
+msgctxt "model:product.uom,name:uom_cubic_meter"
+msgid "Cubic meter"
+msgstr "立方米"
+
+msgctxt "model:product.uom,name:uom_day"
+msgid "Day"
+msgstr "天"
+
+msgctxt "model:product.uom,name:uom_foot"
+msgid "Foot"
+msgstr "英尺"
+
+msgctxt "model:product.uom,name:uom_gallon"
+msgid "Gallon"
+msgstr "加仑"
+
+msgctxt "model:product.uom,name:uom_gram"
+msgid "Gram"
+msgstr "克"
+
+msgctxt "model:product.uom,name:uom_hectare"
+msgid "Hectare"
+msgstr "公顷"
+
+msgctxt "model:product.uom,name:uom_hour"
+msgid "Hour"
+msgstr "小时"
+
+msgctxt "model:product.uom,name:uom_inch"
+msgid "Inch"
+msgstr "英寸"
+
+msgctxt "model:product.uom,name:uom_kilogram"
+msgid "Kilogram"
+msgstr "千克"
+
+msgctxt "model:product.uom,name:uom_kilometer"
+msgid "Kilometer"
+msgstr "千米"
+
+msgctxt "model:product.uom,name:uom_liter"
+msgid "Liter"
+msgstr "公升"
+
+msgctxt "model:product.uom,name:uom_meter"
+msgid "Meter"
+msgstr "米"
+
+msgctxt "model:product.uom,name:uom_mile"
+msgid "Mile"
+msgstr "英里"
+
+msgctxt "model:product.uom,name:uom_millimeter"
+msgid "Millimeter"
+msgstr "毫米"
+
+msgctxt "model:product.uom,name:uom_minute"
+msgid "Minute"
+msgstr "分钟"
+
+msgctxt "model:product.uom,name:uom_ounce"
+msgid "Ounce"
+msgstr "盎司"
+
+msgctxt "model:product.uom,name:uom_pound"
+msgid "Pound"
+msgstr "英镑"
+
+msgctxt "model:product.uom,name:uom_second"
+msgid "Second"
+msgstr "秒"
+
+msgctxt "model:product.uom,name:uom_square_centimeter"
+msgid "Square centimeter"
+msgstr "平方厘米"
+
+msgctxt "model:product.uom,name:uom_square_foot"
+msgid "Square foot"
+msgstr "平方英尺"
+
+msgctxt "model:product.uom,name:uom_square_inch"
+msgid "Square inch"
+msgstr "平方英寸"
+
+msgctxt "model:product.uom,name:uom_square_meter"
+msgid "Square meter"
+msgstr "平方米"
+
+msgctxt "model:product.uom,name:uom_square_yard"
+msgid "Square yard"
+msgstr "平方码"
+
+msgctxt "model:product.uom,name:uom_unit"
+msgid "Unit"
+msgstr "单位"
+
+msgctxt "model:product.uom,name:uom_work_day"
+msgid "Work Day"
+msgstr "工作日"
+
+msgctxt "model:product.uom,name:uom_yard"
+msgid "Yard"
+msgstr "码"
+
+msgctxt "model:product.uom,symbol:uom_are"
+msgid "a"
+msgstr "个"
+
+msgctxt "model:product.uom,symbol:uom_carat"
+msgid "c"
+msgstr "克"
+
+msgctxt "model:product.uom,symbol:uom_centimeter"
+msgid "cm"
+msgstr "厘米"
+
+msgctxt "model:product.uom,symbol:uom_cubic_centimeter"
+msgid "cm³"
+msgstr "立方厘米"
+
+msgctxt "model:product.uom,symbol:uom_cubic_foot"
+msgid "ft³"
+msgstr "立方英尺"
+
+msgctxt "model:product.uom,symbol:uom_cubic_inch"
+msgid "in³"
+msgstr "立方英寸"
+
+msgctxt "model:product.uom,symbol:uom_cubic_meter"
+msgid "m³"
+msgstr "立方米"
+
+msgctxt "model:product.uom,symbol:uom_day"
+msgid "d"
+msgstr "天"
+
+msgctxt "model:product.uom,symbol:uom_foot"
+msgid "ft"
+msgstr "英尺"
+
+msgctxt "model:product.uom,symbol:uom_gallon"
+msgid "gal"
+msgstr "加仑"
+
+msgctxt "model:product.uom,symbol:uom_gram"
+msgid "g"
+msgstr "克"
+
+msgctxt "model:product.uom,symbol:uom_hectare"
+msgid "ha"
+msgstr "公顷"
+
+msgctxt "model:product.uom,symbol:uom_hour"
+msgid "h"
+msgstr "小时"
+
+msgctxt "model:product.uom,symbol:uom_inch"
+msgid "in"
+msgstr "英寸"
+
+msgctxt "model:product.uom,symbol:uom_kilogram"
+msgid "kg"
+msgstr "千克"
+
+msgctxt "model:product.uom,symbol:uom_kilometer"
+msgid "km"
+msgstr "千米"
+
+msgctxt "model:product.uom,symbol:uom_liter"
+msgid "l"
+msgstr "公升"
+
+msgctxt "model:product.uom,symbol:uom_meter"
+msgid "m"
+msgstr "米"
+
+msgctxt "model:product.uom,symbol:uom_mile"
+msgid "mi"
+msgstr "英里"
+
+msgctxt "model:product.uom,symbol:uom_millimeter"
+msgid "mm"
+msgstr "毫米"
+
+msgctxt "model:product.uom,symbol:uom_minute"
+msgid "min"
+msgstr "分"
+
+msgctxt "model:product.uom,symbol:uom_ounce"
+msgid "oz"
+msgstr "盎司"
+
+msgctxt "model:product.uom,symbol:uom_pound"
+msgid "lb"
+msgstr "英镑"
+
+msgctxt "model:product.uom,symbol:uom_second"
+msgid "s"
+msgstr "秒"
+
+msgctxt "model:product.uom,symbol:uom_square_centimeter"
+msgid "cm²"
+msgstr "平方厘米"
+
+msgctxt "model:product.uom,symbol:uom_square_foot"
+msgid "ft²"
+msgstr "平方英尺"
+
+msgctxt "model:product.uom,symbol:uom_square_inch"
+msgid "in²"
+msgstr "平方英寸"
+
+msgctxt "model:product.uom,symbol:uom_square_meter"
+msgid "m²"
+msgstr "平方米"
+
+msgctxt "model:product.uom,symbol:uom_square_yard"
+msgid "yd²"
+msgstr "平方码"
+
+msgctxt "model:product.uom,symbol:uom_unit"
+msgid "u"
+msgstr "单位"
+
+msgctxt "model:product.uom,symbol:uom_work_day"
+msgid "wd"
+msgstr "工作日"
+
+msgctxt "model:product.uom,symbol:uom_yard"
+msgid "yd"
+msgstr "码"
+
+msgctxt "model:product.uom.category,name:"
+msgid "Product uom category"
+msgstr "产品计量单位分类"
+
+msgctxt "model:product.uom.category,name:uom_cat_length"
+msgid "Length"
+msgstr "长度"
+
+msgctxt "model:product.uom.category,name:uom_cat_surface"
+msgid "Surface"
+msgstr "外观"
+
+msgctxt "model:product.uom.category,name:uom_cat_time"
+msgid "Time"
+msgstr "次数"
+
+msgctxt "model:product.uom.category,name:uom_cat_unit"
+msgid "Units"
+msgstr "单位"
+
+msgctxt "model:product.uom.category,name:uom_cat_volume"
+msgid "Volume"
+msgstr "体积"
+
+msgctxt "model:product.uom.category,name:uom_cat_weight"
+msgid "Weight"
+msgstr "重量"
+
+msgctxt "model:res.group,name:group_product_admin"
+msgid "Product Administration"
+msgstr "产品管理"
+
+msgctxt "selection:product.configuration,default_cost_price_method:"
+msgid ""
+msgstr ""
+
+msgctxt "selection:product.configuration,default_cost_price_method:"
+msgid "Average"
+msgstr "平均"
+
+msgctxt "selection:product.configuration,default_cost_price_method:"
+msgid "Fixed"
+msgstr "固定"
+
+msgctxt "selection:product.product,cost_price_method:"
+msgid "Average"
+msgstr "平均"
+
+msgctxt "selection:product.product,cost_price_method:"
+msgid "Fixed"
+msgstr "固定"
+
+msgctxt "selection:product.product,type:"
+msgid "Assets"
+msgstr "资产"
+
+msgctxt "selection:product.product,type:"
+msgid "Goods"
+msgstr "商品"
+
+msgctxt "selection:product.product,type:"
+msgid "Service"
+msgstr "服务"
+
+msgctxt "selection:product.template,cost_price_method:"
+msgid "Average"
+msgstr "平均"
+
+msgctxt "selection:product.template,cost_price_method:"
+msgid "Fixed"
+msgstr "固定"
+
+msgctxt "selection:product.template,type:"
+msgid "Assets"
+msgstr "资产"
+
+msgctxt "selection:product.template,type:"
+msgid "Goods"
+msgstr "商品"
+
+msgctxt "selection:product.template,type:"
+msgid "Service"
+msgstr "服务"
+
+msgctxt "view:product.category:"
+msgid "Children"
+msgstr "子类"
+
+msgctxt "view:product.category:"
+msgid "Product Categories"
+msgstr "产品分类"
+
+msgctxt "view:product.category:"
+msgid "Product Category"
+msgstr "产品分类"
+
+msgctxt "view:product.configuration:"
+msgid "Party Configuration"
+msgstr "部分配置"
+
+msgctxt "view:product.product:"
+msgid "Product"
+msgstr "产品"
+
+msgctxt "view:product.product:"
+msgid "Products"
+msgstr "产品"
+
+msgctxt "view:product.template:"
+msgid "General"
+msgstr "常规"
+
+msgctxt "view:product.template:"
+msgid "Product"
+msgstr "产品"
+
+msgctxt "view:product.template:"
+msgid "Products"
+msgstr "产品"
+
+msgctxt "view:product.uom.category:"
+msgid "Categories of Unit of Measure"
+msgstr "计量单位的分类"
+
+msgctxt "view:product.uom.category:"
+msgid "Category of Unit of Measure"
+msgstr "计量单位的分类"
+
+msgctxt "view:product.uom:"
+msgid "Unit of Measure"
+msgstr "计量单位"
+
+msgctxt "view:product.uom:"
+msgid "Units of Measure"
+msgstr "计量单位"

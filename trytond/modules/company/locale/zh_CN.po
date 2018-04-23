@@ -1,0 +1,312 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:company.company,childs:"
+msgid "Children"
+msgstr "子方"
+
+msgctxt "field:company.company,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:company.company,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:company.company,currency:"
+msgid "Currency"
+msgstr "货币"
+
+msgctxt "field:company.company,employees:"
+msgid "Employees"
+msgstr "雇员"
+
+msgctxt "field:company.company,footer:"
+msgid "Footer"
+msgstr "脚注"
+
+msgctxt "field:company.company,header:"
+msgid "Header"
+msgstr "标头"
+
+msgctxt "field:company.company,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:company.company,parent:"
+msgid "Parent"
+msgstr "父方"
+
+msgctxt "field:company.company,party:"
+msgid "Party"
+msgstr "交易方"
+
+msgctxt "field:company.company,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:company.company,timezone:"
+msgid "Timezone"
+msgstr "时区"
+
+msgctxt "field:company.company,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:company.company,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:company.company.config.start,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:company.employee,company:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "field:company.employee,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:company.employee,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:company.employee,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:company.employee,party:"
+msgid "Party"
+msgstr "交易方"
+
+msgctxt "field:company.employee,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:company.employee,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:company.employee,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:ir.cron,companies:"
+msgid "Companies"
+msgstr "公司"
+
+msgctxt "field:ir.cron-company.company,company:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "field:ir.cron-company.company,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:ir.cron-company.company,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:ir.cron-company.company,cron:"
+msgid "Cron"
+msgstr "Cron"
+
+msgctxt "field:ir.cron-company.company,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:ir.cron-company.company,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:ir.cron-company.company,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:ir.cron-company.company,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "field:ir.property,company:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "field:ir.sequence,company:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "field:ir.sequence.strict,company:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "field:res.user,companies:"
+msgid "Current Companies"
+msgstr "当前公司"
+
+msgctxt "field:res.user,company:"
+msgid "Current Company"
+msgstr "当前公司"
+
+msgctxt "field:res.user,employee:"
+msgid "Current Employee"
+msgstr "当前雇员"
+
+msgctxt "field:res.user,employees:"
+msgid "Employees"
+msgstr "雇员"
+
+msgctxt "field:res.user,main_company:"
+msgid "Main Company"
+msgstr "主公司"
+
+msgctxt "field:res.user-company.employee,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:res.user-company.employee,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:res.user-company.employee,employee:"
+msgid "Employee"
+msgstr "雇员"
+
+msgctxt "field:res.user-company.employee,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:res.user-company.employee,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:res.user-company.employee,user:"
+msgid "User"
+msgstr "使用者"
+
+msgctxt "field:res.user-company.employee,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:res.user-company.employee,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "help:ir.cron,companies:"
+msgid "Companies registered for this cron"
+msgstr "公司注册由于Cron"
+
+msgctxt "model:company.company,name:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "model:company.company.config.start,name:"
+msgid "Company Config"
+msgstr "公司配置"
+
+msgctxt "model:company.employee,name:"
+msgid "Employee"
+msgstr "雇员"
+
+msgctxt "model:ir.action,name:act_company_config"
+msgid "Configure Company"
+msgstr "配置公司"
+
+msgctxt "model:ir.action,name:act_company_list"
+msgid "Companies"
+msgstr "公司"
+
+msgctxt "model:ir.action,name:act_company_tree"
+msgid "Companies"
+msgstr "公司"
+
+msgctxt "model:ir.action,name:act_employee_form"
+msgid "Employees"
+msgstr "雇员"
+
+msgctxt "model:ir.action,name:report_letter"
+msgid "Letter"
+msgstr "信件"
+
+msgctxt "model:ir.cron-company.company,name:"
+msgid "Cron - Company"
+msgstr "Cron-公司"
+
+msgctxt "model:ir.ui.menu,name:menu_company_list"
+msgid "Companies"
+msgstr "公司"
+
+msgctxt "model:ir.ui.menu,name:menu_company_tree"
+msgid "Companies"
+msgstr "公司"
+
+msgctxt "model:ir.ui.menu,name:menu_employee_form"
+msgid "Employees"
+msgstr "雇员"
+
+msgctxt "model:res.user-company.employee,name:"
+msgid "User - Employee"
+msgstr "使用者-雇员"
+
+msgctxt "report:party.letter:"
+msgid "Best Regards,"
+msgstr "诚挚的问候"
+
+msgctxt "report:party.letter:"
+msgid "Date:"
+msgstr "日期"
+
+msgctxt "report:party.letter:"
+msgid "Dear Madams and Sirs,"
+msgstr "尊敬的女士先生"
+
+msgctxt "report:party.letter:"
+msgid "Subject:"
+msgstr "标题"
+
+msgctxt "view:company.company.config.start:"
+msgid "Create Company"
+msgstr "创建公司"
+
+msgctxt "view:company.company.config.start:"
+msgid "You can now add your company into the system."
+msgstr "你可以现状在系统中添加公司"
+
+msgctxt "view:company.company:"
+msgid "Companies"
+msgstr "公司"
+
+msgctxt "view:company.company:"
+msgid "Company"
+msgstr "公司"
+
+msgctxt "view:company.company:"
+msgid "Reports"
+msgstr "报告"
+
+msgctxt "view:company.employee:"
+msgid "Employee"
+msgstr "雇员"
+
+msgctxt "view:company.employee:"
+msgid "Employees"
+msgstr "雇员"
+
+msgctxt "wizard_button:company.company.config,company,add:"
+msgid "Add"
+msgstr "添加"
+
+msgctxt "wizard_button:company.company.config,company,end:"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "wizard_button:company.company.config,start,company:"
+msgid "OK"
+msgstr "好"
+
+msgctxt "wizard_button:company.company.config,start,end:"
+msgid "Cancel"
+msgstr "取消"
+

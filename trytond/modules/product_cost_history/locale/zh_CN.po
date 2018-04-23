@@ -1,0 +1,60 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.product.cost_history,cost_price:"
+msgid "Cost Price"
+msgstr "成本价"
+
+msgctxt "field:product.product.cost_history,create_date:"
+msgid "Create Date"
+msgstr "创建日期"
+
+msgctxt "field:product.product.cost_history,create_uid:"
+msgid "Create User"
+msgstr "创建人"
+
+msgctxt "field:product.product.cost_history,date:"
+msgid "Date"
+msgstr "日期"
+
+msgctxt "field:product.product.cost_history,id:"
+msgid "ID"
+msgstr "标识"
+
+msgctxt "field:product.product.cost_history,rec_name:"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "field:product.product.cost_history,template:"
+msgid "Product"
+msgstr "产品"
+
+msgctxt "field:product.product.cost_history,write_date:"
+msgid "Write Date"
+msgstr "修改日期"
+
+msgctxt "field:product.product.cost_history,write_uid:"
+msgid "Write User"
+msgstr "修改人"
+
+msgctxt "model:ir.action,name:act_product_cost_history_form"
+msgid "Product Cost History"
+msgstr "产成本历史"
+
+msgctxt "model:ir.action,name:wizard_product_cost_history_open"
+msgid "Cost History"
+msgstr "成本历史"
+
+msgctxt "model:product.product.cost_history,name:"
+msgid "History of Product Cost"
+msgstr "产品的成本历史"
+
+msgctxt "view:product.product.cost_history:"
+msgid "Product Cost History"
+msgstr "产品成本历史"
+
+msgctxt "view:product.product.cost_history:"
+msgid "Time"
+msgstr "时间"
+
